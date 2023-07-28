@@ -3,11 +3,11 @@
 This Repo contains a basic object tracking model for cars created using OpenCV and Python.
 
 ## Results:
+https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4
+![Output:])
 
-[Output:](https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4)
 
-
-[Input:](https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4)
+![Input:](https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4)
 
 ## Pre-requites
 
