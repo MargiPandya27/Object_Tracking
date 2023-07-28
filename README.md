@@ -7,8 +7,8 @@ https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4
 ![Output:])
 
 
-![Input:](https://github.com/MargiPandya27/Object_Tracking/assets/117746681/85b61c66-b9be-4d96-9b42-35ddc09ff281)
-
+https://github.com/MargiPandya27/Object_Tracking/assets/117746681/85b61c66-b9be-4d96-9b42-35ddc09ff281
+Input
 
 
 
