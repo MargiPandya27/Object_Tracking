@@ -1,3 +1,5 @@
+
+https://github.com/MargiPandya27/Object_Tracking/assets/117746681/80864169-75ef-442f-a564-5c52389ab7bf
 # Object_Tracking
 
 This Repo contains a basic object tracking model for cars created using OpenCV and Python.
@@ -12,7 +14,6 @@ https://github.com/pandyamk27/Object_Tracking/blob/main/los_angeles.mp4
 
 
 
-Uploading filename.mp4…
 
 
 
