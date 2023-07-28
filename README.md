@@ -4,6 +4,10 @@ This Repo contains a basic object tracking model for cars created using OpenCV a
 
 ## Results:
 
+
+https://github.com/MargiPandya27/Object_Tracking/assets/117746681/905a7fda-ed03-48c2-b8d1-b5313caf077f
+
+
 ### Input
 https://github.com/MargiPandya27/Object_Tracking/assets/117746681/85b61c66-b9be-4d96-9b42-35ddc09ff281
 
