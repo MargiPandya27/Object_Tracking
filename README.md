@@ -13,7 +13,8 @@ https://github.com/MargiPandya27/Object_Tracking/assets/117746681/85b61c66-b9be-
 
 | Video 1                         | Video 2                         |
 | ------------------------------- | ------------------------------- |
-| https://github.com/MargiPandya27/Object_Tracking/assets/117746681/85b61c66-b9be-4d96-9b42-35ddc09ff281 | https://github.com/MargiPandya27/Object_Tracking/assets/117746681/905a7fda-ed03-48c2-b8d1-b5313caf077f |
+| ![Video 1 Preview](https://drive.google.com/drive/u/0/folders/1ysI6GudfXLfnOEdlmMPB7kUtUcHrrKlV) | ![Video 2 Preview](link_to_gif2) |
+
 
 
 ## Pre-requites
